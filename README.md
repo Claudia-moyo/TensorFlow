@@ -1,7 +1,6 @@
 # What's new in TensorFlow 2.x
 
-The following are all the changes coming in TensorFlow 2.x. Let us have a closer look at them:
-
+The following are all the changes coming in TensorFlow 2.x. Let's have a closer look at them:
 
 * Eager Execution / tf.function
 * Integration of the Keras API
@@ -27,7 +26,7 @@ With TensorFlow 2.0, eager execution is activated by default and the very cool t
 
 This means, from now on, TensorFlow code can be used and debugged as ordinary python code (using numpy for example). This is one aspect of making TensorFlow more pythonic.
 
-Below there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
+Below, there are two tasks. I highly recommend doing them because while watching me coding and coding yourself you'll definitely internalize the material.
 
 ### Tasks
 
